@@ -1,6 +1,7 @@
 # rf-anomaly-detector
 # 📡 RF Signal Anomaly Detector
 🌐 **Live Demo:** [Click Here](https://rf-anomaly-detector.vercel.app)
+🎬 **How It Works:** [Interactive Explainer](https://rf-anomaly-explainer.vercel.app)
 
 > Real-time RF signal anomaly detection — software simulation of an FPGA-based autoencoder project
 
